@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome da Tatuadora</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nome da Tatuadora</h1>
+        <p>Bem-vindo(a) ao meu portfólio de tatuagem!</p>
+    </header>
+
+    <section id="portfolio">
+        <h2>Portfólio</h2>
+        <div class="gallery">
+            <img src="link-da-imagem1.jpg" alt="Tatuagem 1">
+            <img src="link-da-imagem2.jpg" alt="Tatuagem 2">
+            <!-- Adicione mais imagens conforme necessário -->
+        </div>
+    </section>
+
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>Conecte-se comigo nas redes sociais:</p>
+        <ul>
+            <li><a href="link-para-instagram" target="_blank">Instagram</a></li>
+            <li><a href="link-para-facebook" target="_blank">Facebook</a></li>
+            <li><a href="link-para-youtube" target="_blank">YouTube</a></li>
+            <!-- Adicione mais links conforme necessário -->
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Nome da Tatuadora</p>
+    </footer>
+</body>
+</html>
